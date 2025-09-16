@@ -1,0 +1,20 @@
+# stack build stuff
+.stack-work/
+
+# ghc build files
+*.hi
+*.o
+
+# compiled exe
+*.exe
+
+# IDE configs
+.vscode/
+.idea/
+
+# stack lock (local only)
+stack.yaml.lock
+
+# system junk
+Thumbs.db
+.DS_Store
